@@ -9,6 +9,7 @@ public class J_SomaTripla {
         System.out.println("triples="+NumeroDeTriplas(n));
     }
 
+
     public static int NumeroDeTriplas(int numero){
         int primeironumero =numero-2;
         int terceironumero =1;
